@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Streamlit cache and logs
+.streamlit/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploaded files
+*.pdf
+*.txt
